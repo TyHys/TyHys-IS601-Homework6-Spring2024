@@ -1,0 +1,8 @@
+.pytest_cache/*
+venv/*
+.coverage
+exterior_script.py
+__pycache__/*
+calculator_mod/__pycache__/*
+calculator_mod/tests/__pycache__/*
+calculator_mod/commands/__pycache__/*
