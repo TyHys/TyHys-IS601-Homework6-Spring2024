@@ -6,3 +6,5 @@ __pycache__/*
 calculator_mod/__pycache__/*
 calculator_mod/tests/__pycache__/*
 calculator_mod/commands/__pycache__/*
+.env
+calculator_mod/logs/*
